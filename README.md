@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # github-starter
 Experience the Git and Github
 =======
